@@ -82,9 +82,9 @@ const Footer = () => {
             </h3>
           </div>
         )}
-      <div style={{ position: 'fixed', bottom: 10 }}>
+      {/* <div style={{ position: 'fixed', bottom: 10 }}>
         Copyright &copy; {new Date().getFullYear()} DrMonocle. All rights reserved.
-      </div>
+      </div> */}
     </>
   );
 };
