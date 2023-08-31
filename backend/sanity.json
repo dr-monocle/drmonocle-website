@@ -4,7 +4,7 @@
     "name": "drmonocle-website"
   },
   "api": {
-    "projectId": "7uvs2edo",
+    "projectId": "",
     "dataset": "production"
   },
   "plugins": [
